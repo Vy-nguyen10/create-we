@@ -96,7 +96,7 @@
 <!-- Liên hệ -->
 <section id="contact">
   <h2>Liên hệ</h2>
-  <p>Email: thethien322008@gmail.com</p>
+  <p>Email: nguyenlamvy09@gmail.com</p>
   <p>Địa chỉ: Lớp 12C2 – THPT Gio Linh</p>
 </section>
 
